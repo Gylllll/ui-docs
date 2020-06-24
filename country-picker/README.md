@@ -11,7 +11,7 @@
 
 ## 安装
 ```shell
-npm i --save @sdp.nd.ui/country-picker // 安装
+npm i --save @xxx.ui/country-picker // 安装
 ```
 
 ## API
